@@ -6,7 +6,7 @@
 ホーム
 #### [profine.html](profine.html) - HomePage
 プロフィール
-#### [test/1x1calculation.html](test/1x1calculation.html)
+#### [1x1calculation.html](test/1x1calculation/1x1calculation.html)
 一桁×一桁計算サイト
-#### [test/JavaScriptTester.html](test/JavaScriptTester.html)
+#### [test/JavaScriptTester.html](test/JavaScriptTester/JavaScriptTester.html)
 JavaScriptコードテスター
