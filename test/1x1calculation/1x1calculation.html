@@ -66,7 +66,7 @@
 
   <div class="home mains">
 
-  <div class="box-title" id="q">1 + 1 = ?</div>
+  <div class="box-title" id="q">1 * 1 = ?</div>
 
   <div id="numb" class="num"></div>
 
@@ -104,37 +104,6 @@
 </div>
 
 
-
-<table class="setting mains" width="100%">
-
-  <div class="settings">
-    <div class="setting-text">問題数</div>
-    <form action="#">
-      <input type="number" id="setting-qes" class="setting-num">
-    </form>
-  </div>
-
-  <div class="settings">
-    <div class="setting-text">制限時間</div>
-    <form action="#">
-      <input type="number" id="setting-time" class="setting-num">
-    </form>
-  </div>
-
-  <div class="settings">
-    <div class="setting-text">1問あたりの制限時間</div>
-    <form action="#">
-      <input type="tel" id="setting-time" class="setting-num">
-    </form>
-  </div>
-
-  <div class="settings">
-    <div>テストボタン</div>
-      <input type="button" value="ボタン" onclick="setting()">
-  </div>
-
-</table>
-
 </div>
 
 </body>
@@ -145,10 +114,10 @@ function enter() {
   let q = document.getElementById("q").textContent.split(' ');
   let info = document.getElementById("info").textContent.split(' ');
   let numb = document.getElementById("numb").textContent;
-    let ans = Number(q[0]) + Number(q[2]);
+    let ans = Number(q[0]) * Number(q[2]);
     let X = Math.floor(Math.random() * 9 + 1);
     let Y = Math.floor(Math.random() * 9 + 1);
-    document.getElementById("q").textContent = `${X} + ${Y} = ?`;
+    document.getElementById("q").textContent = `${X} × ${Y} = ?`;
     document.getElementById("numb").textContent = "";
       if (ans == numb) {
           document.getElementById("answ").textContent = "A.正解";
