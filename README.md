@@ -12,3 +12,6 @@
 一桁×一桁計算サイト
 #### [test/JavaScriptTester.html](test/JavaScriptTester/JavaScriptTester.html)
 JavaScriptコードテスター
+
+#### [Rearth/WebShopList/index.html]([Rearth/WebShopList/index.html)
+Rearthの和歌山ショップ
