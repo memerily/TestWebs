@@ -1,0 +1,44 @@
+[
+  {
+      "Item": "白色の羊毛",
+      "price": 0.05,
+      "quantity": 1,
+      "remark": ""
+  },
+  {
+      "Item": "銅鉱石",
+      "price": 0.05,
+      "quantity": 1,
+      "remark": ""
+  },
+  {
+      "Item": "焼き豚",
+      "price": 1,
+      "quantity": 64,
+      "remark": ""
+  },
+  {
+      "Item": "イカスミ",
+      "price": 0.1,
+      "quantity": 1,
+      "remark": ""
+  },
+  {
+      "Item": "エンチャントされた金リンゴ",
+      "price": 9999,
+      "quantity": 1,
+      "remark": ""
+  },
+  {
+      "Item": "rakkudesu",
+      "price": 50,
+      "quantity": 1,
+      "remark": "NetheriteSword<br>アンデット特攻V<br>耐久値81%"
+  },
+  {
+      "Item": "ダイヤモンドのツルハシ",
+      "price": 1.11,
+      "quantity": 1,
+      "remark": "修繕、消滅の呪い付き"
+  }
+]

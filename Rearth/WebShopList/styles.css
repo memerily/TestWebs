@@ -1,0 +1,49 @@
+body {
+  background-color: #333; /* 暗めのグレーの背景色 */
+  font-family: 'Arial', sans-serif;
+  color: #fff; /* 白色の文字色 */
+  font-size: 30px; /* フォントサイズを4倍に */
+}
+
+#title {
+  text-align: center; /* タイトルを中央揃えに */
+  padding: 20px 1px; /* タイトルの上下左右に余白を追加 */
+}
+
+#search-container {
+  margin: 20px;
+}
+
+#searchInput {
+  padding: 3px;
+  font-size: 35px; /* フォントサイズを4倍に */
+  border: 1px solid #ff69b4; /* ピンクの枠線 */
+  border-radius: 15px; /* 角を丸く */
+  width: 100%;
+  color: #fff; /* 白色の文字色 */
+  background-color: #ff69b4; /* ピンクの背景色 */
+}
+
+#app {
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  overflow: hidden; /* 余分な部分を隠すために必要 */
+}
+
+th, td {
+  border: 1px solid #ff69b4; /* ピンクの枠線 */
+  padding: 10px;
+  text-align: left;
+  border-radius: 0; /* テーブルのセルの角を丸くしない */
+}
+
+th {
+  background-color: #ff69b4; /* ピンクの背景色 */
+  color: #fff; /* 白色の文字色 */
+  font-size: 35px; /* フォントサイズを4倍に */
+}
