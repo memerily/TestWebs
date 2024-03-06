@@ -24,16 +24,34 @@
       "remark": ""
   },
   {
+      "Item": "ネザーウォート",
+      "price": 0.1,
+      "quantity": 64,
+      "remark": ""
+  },
+  {
+      "Item": "丸石",
+      "price": 0.01,
+      "quantity": 64,
+      "remark": ""
+  },
+  {
+      "Item": "石",
+      "price": 0.01,
+      "quantity": 64,
+      "remark": ""
+  },
+  {
+      "Item": "黒曜石",
+      "price": 1,
+      "quantity": 64,
+      "remark": ""
+  },
+  {
       "Item": "エンチャントされた金リンゴ",
       "price": 9999,
       "quantity": 1,
       "remark": ""
-  },
-  {
-      "Item": "rakkudesu",
-      "price": 50,
-      "quantity": 1,
-      "remark": "NetheriteSword<br>アンデット特攻V<br>耐久値81%"
   },
   {
       "Item": "ダイヤモンドのツルハシ",
