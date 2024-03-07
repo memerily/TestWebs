@@ -26,8 +26,26 @@
   {
       "Item": "ネザーウォート",
       "price": 0.1,
-      "quantity": 64,
+      "quantity": 16,
       "remark": ""
+  },
+  {
+      "Item": "エンダーパール",
+      "price": 10,
+      "quantity": 2,
+      "remark": ""
+  },
+  {
+      "Item": "火薬",
+      "price": 0.3,
+      "quantity": 1,
+      "remark": ""
+  },
+  {
+      "Item": "高品質の小麦ビール",
+      "price": 0.31,
+      "quantity": 1,
+      "remark": "★★★★☆<br>７年 バレル熟成"
   },
   {
       "Item": "丸石",
@@ -38,12 +56,6 @@
   {
       "Item": "石",
       "price": 0.01,
-      "quantity": 64,
-      "remark": ""
-  },
-  {
-      "Item": "黒曜石",
-      "price": 1,
       "quantity": 64,
       "remark": ""
   },
