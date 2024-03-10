@@ -31,44 +31,50 @@
   },
   {
       "Item": "エンダーパール",
-      "price": 10,
+      "price": 2.5,
       "quantity": 2,
       "remark": ""
   },
   {
       "Item": "火薬",
-      "price": 0.3,
+      "price": 0.1,
       "quantity": 1,
       "remark": ""
   },
   {
-      "Item": "高品質の小麦ビール",
-      "price": 0.31,
-      "quantity": 1,
-      "remark": "★★★★☆<br>７年 バレル熟成"
-  },
-  {
       "Item": "丸石",
-      "price": 0.01,
+      "price": 0.02,
       "quantity": 64,
       "remark": ""
   },
   {
       "Item": "石",
-      "price": 0.01,
+      "price": 0.02,
       "quantity": 64,
       "remark": ""
   },
   {
+      "Item": "リンゴ",
+      "price": 0.1,
+      "quantity": 10,
+      "remark": ""
+  },
+  {
+      "Item": "羽根",
+      "price": 0.5,
+      "quantity": 1,
+      "remark": ""
+  },
+  {
       "Item": "エンチャントされた金リンゴ",
-      "price": 9999,
+      "price": 25252.5,
       "quantity": 1,
       "remark": ""
   },
   {
       "Item": "ダイヤモンドのツルハシ",
-      "price": 1.11,
+      "price": 10,
       "quantity": 1,
-      "remark": "修繕、消滅の呪い付き"
+      "remark": "効率強化V<br>修繕<br>耐久III"
   }
 ]
